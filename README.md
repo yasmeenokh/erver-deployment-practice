@@ -1,1 +1,1 @@
-# erver-deployment-practice
+# server-deployment-practice
