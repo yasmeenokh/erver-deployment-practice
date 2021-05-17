@@ -18,4 +18,4 @@ Visit http://localhost:PORT at the PORT number you've assigned in your .env
 
 ## UML Diagram
 
-![uml](./images/Lab01.jpg)
+![uml](./images/lab01.jpg)
